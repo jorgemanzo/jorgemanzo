@@ -1,7 +1,7 @@
 ### Welcome! 🐦
 
 - 🔭 **Working on:**
-    - Code sharing app in Laravel PHP
+    - Code sharing app in Angular with a Codeigniter PHP backend 🐘️
     - Personal website in ReactJS
     - Job Hunting! (You should totally check out my [resume!](https://www.humble-dev.app/resume))
 - 🌱 **Currently learning:**
