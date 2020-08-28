@@ -5,8 +5,7 @@
     - Personal website in ReactJS
     - Job Hunting! (You should totally check out my [resume!](https://www.humble-dev.app/resume))
 - 🌱 **Currently learning:**
-    - Make an OS kernel from the ground up with NASM and C ([os-adventures](https://github.com/jorgemanzo/os-adventures))
-    - Vala/GTK for contributing to [elementaryOS](https://github.com/elementary)
+    - Making a REST API backend with GO and a frontend in [Angular!](https://github.com/jorgemanzo/angular-code-share)
 - 🧡️ **Things I love:** 💮️
     - Mechanical Keyboards
     - Beautiful User Interfaces
